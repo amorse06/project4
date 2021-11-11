@@ -1,14 +1,15 @@
-
- <div class="primary-nav">
-    <div class="page-width-controller">
-     <ul class="nav-list">
-        <li>
-          <a href="/">
-            Home
-          </a>
-        </li>
-
-        <li>
+<nav class="site-nav">
+  <ul class="u-list-reset">
+    {% assign nav = collections.nav | sortByPageOrder %}
+    {% for item in nav %}
+    <li{% if page.url == item.url %} aria-current="page" {% endif %}>
+      <a href="{{ item.url }}">
+        {{ item.data.pageTitle }}
+      </a>
+      </li>
+      {% endfor %}
+    
+    <li>
           <a href="https://balt311.baltimorecity.gov/citizen/servicetypes">
             Requests
           </a>
@@ -19,6 +20,5 @@
             Status
           </a>
         </li>
-      </ul>      
-    </div>
-</div>
+  </ul>
+</nav>
