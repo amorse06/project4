@@ -1,21 +1,24 @@
-<!DOCTYPE html>
+<!doctype html>
 <html lang="en">
-  <head>
-    <meta charset="utf-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <link rel="icon" href="https://glitch.com/favicon.ico" />
 
-    <title>Baltimore 311</title>
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-    <!-- import the webpage's stylesheet -->
-    <link rel="stylesheet" href="src/css/styles.css" />
+  <title>
+    {% if pageTitle %}
+    {{ pageTitle }} -
+    {% endif %}
+    {{ siteData.name }}
+  </title>
 
-    <!-- import the webpage's javascript file -->
-    <script src="/script.js" defer></script>
-  </head>
-  <body>
-    
-    {{ content | safe}}
-    
-  </body>
+  <link href="/css/styles.css" rel="stylesheet">
+</head>
+
+<body>
+
+  {{ content | safe }}
+
+</body>
+
 </html>

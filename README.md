@@ -1,22 +1,26 @@
-# Hello Website (blank)
+Your Project
+============
 
-This is a basic static HTML starter project you can build on however you like. No need to save. While you develop your site, your changes will happen 🪄 immediately in the preview window. You can upload assets like images or audio in `assets` to the left. The rest is up to you and your imagination.
+This project template uses Eleventy to generate static HTML pages.
 
-## What's in this project?
+💡 Before starting to use this template, you should have completed the Eleventy tutorial.
 
-← `README.md`: That's this file, where you can tell people what your cool website does and how you built it.
+### ← README.md
 
-← `index.html`: This is the main HTML page for your site.
+That's this file, which includes details about this project template.
 
-← `style.css`: CSS files add styling rules to your content.
+### ← /src/
 
-← `script.js`: If you're feeling fancy you can add interactivity to your site with JavaScript.
+This is the directory where you will do all of your work, including your HTML and Sass.
 
-![Glitch](https://cdn.glitch.com/a9975ea6-8949-4bab-addb-8a95021dc2da%2FLogo_Color.svg?v=1602781328576)
+### ← /src/sass/
 
-## You built this with Glitch!
+This is where you will write the styles for your project. Note that it duplicates the structure used in the Eleventy tutorial.
 
-[Glitch](https://glitch.com) is a friendly community where millions of people come together to build web apps and websites.
+### Adding media
 
-- Need more help? [Check out our Help Center](https://help.glitch.com/) for answers to any common questions.
-- Ready to make it official? [Become a paid Glitch member](https://glitch.com/pricing) to boost your app with private sharing, more storage and memory, domains and more.
+To add images to your project, you must use the Glitch editor in the browser and drag your files into the `assets` container. You can then copy the URL for the asset and use it in your HTML or Sass. 👍🏻
+
+### Project 4
+
+Remember to review all the requirements for [Project 4](https://fewd.samizdat.co/2021/project/4/). While this template includes some of the necessary bits (like the homepage and 404), it does not create everything you need for a complete Project 4.
