@@ -1,1 +1,19 @@
-.site-nav {}
+.site-nav {
+  background-color: $color-darkGrey;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  font-family: "Noto Serif", serif;
+}
+
+.u-list-reset{
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+a{
+  text-decoration: none;
+  color: $color-offwhite;
+  font-size: 20px;
+}

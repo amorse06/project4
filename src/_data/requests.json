@@ -1,0 +1,758 @@
+[
+  {
+    "Request": "48 Hour Parking Complaint/Abandoned Vehicle on City Right-of-Way",
+    "Category": "Other",
+    "Description": "Use this service request to report derelict vehicles on City right-of-ways as well as vehicles, in good condition, that have not been moved for 48 hours or more on a City street. Derelict vehicles include: no tags, expired tags and/or undrivable conditions such as flat tires and/or major structural damage. Please record only one vehicle per service request.",
+    "Department": "Transportation",
+    "Resolution Estimate": "5 Business Days"
+  },
+  {
+    "Request": "ADA Signage Request on PABC Lot",
+    "Category": "Other",
+    "Description": "Use this Service Request type for ADA compliant parking at a PARKING AUTHORITY of BALTIMORE CITY parking facility.",
+    "Department": "Parking Authority",
+    "Resolution Estimate": "30 Business Days"
+  },
+  {
+    "Request": "Abandoned Vehicle (Private Property)",
+    "Category": "Housing, Buildings & Structures",
+    "Description": "Use this service request to address abandoned vehicles on private occupied property, private vacant property and public vacant lots/property. DO NOT use this service request for abandoned vehicles in the public right of way. Instead, use Abandoned Vehicle (Public Property).",
+    "Department": "Housing",
+    "Resolution Estimate": "17 Calendar Days"
+  },
+  {
+    "Request": "Alley Repair",
+    "Category": "Streets & Street Lights",
+    "Description": "Use this service request to request the repair (e.g., crack, uneven slab, etc.) of an alley in which the issue is NOT a pothole. For alley potholes, use the Potholes service request.",
+    "Department": "Transportation",
+    "Resolution Estimate": "45 Business Days"
+  },
+  {
+    "Request": "Animal - Failure to Restrain Animal, Known Owner/Known Address",
+    "Category": "Animals, Parks & Trees",
+    "Description": "Use this service request to report the failure to restrain an animal. This service cannot be provided without a specific address identifying where the animal, in most cases a dog, is kept. A letter will be sent to the property owner for a first offense; additional offenses will trigger increased enforcement as appropriate.",
+    "Department": "Health",
+    "Resolution Estimate": "14 Business Days"
+  },
+  {
+    "Request": "Animal - Aggressive",
+    "Category": "Animals, Parks & Trees",
+    "Description": "Use this service request to report truly aggressive animals as opposed to animals that are merely barking or running at large.",
+    "Department": "Health",
+    "Resolution Estimate": "7 Calendar Days"
+  },
+  {
+    "Request": "Animal - Barking Dog",
+    "Category": "Animals, Parks & Trees",
+    "Description": "Use this service request to report a dog who barks incessantly. A file review for the address will be conducted. If warranted, a barking dog complaint letter will be sent to the property owner for a first offense; additional offenses will trigger increased enforcement as appropriate. You may call the 311 Call Center in 10 days if you would like to know resolution details. You must have the SR number for the 311 Agent to access those notes.",
+    "Department": "Health",
+    "Resolution Estimate": "14 Calendar Days"
+  },
+  {
+    "Request": "Animal - Dead Animal Pickup, Wildlife or Stray",
+    "Category": "Animals, Parks & Trees",
+    "Description": "Use this service request to report and request the removal of a dead wild or stray animal from the public right-of-way. Animal Control only picks up dead stray dogs and cats from public right of ways and vacant property.",
+    "Department": "Health",
+    "Resolution Estimate": "7 Calendar Days"
+  },
+  {
+    "Request": "Animal - In Danger/Injured/Abused/Neglected",
+    "Category": "Animals, Parks & Trees",
+    "Description": "Use this service request to report an injured, abused, neglected or, otherwise, in danger animal. This request is used for domestic animals only.",
+    "Department": "Health",
+    "Resolution Estimate": "3 Business Days"
+  },
+  {
+    "Request": "Animal - Unsanitary Conditions",
+    "Category": "Animals, Parks & Trees",
+    "Description": "Use this service request to report animal waste left in a yard, foul odor from the interior of a house where animals are kept, etc. An Enforcement Officer will be assigned to investigate the complaint. The owner of the animal or property may be given a citation.",
+    "Department": "Health",
+    "Resolution Estimate": "10 Calendar Days"
+  },
+  {
+    "Request": "Bed Bugs",
+    "Category": "Housing, Buildings & Structures",
+    "Description": "Use this service request to report bed bug issues.",
+    "Department": "Housing",
+    "Resolution Estimate": "15 Calendar Days"
+  },
+  {
+    "Request": "Bench Concerns",
+    "Category": "Streets & Street Lights",
+    "Description": "Use this service request to relocate a bench, add a bench to a location, or repair a bench.",
+    "Department": "Transportation",
+    "Resolution Estimate": "25 Business Days"
+  },
+  {
+    "Request": "Bridge Concerns",
+    "Category": "Streets & Street Lights",
+    "Description": "Use this service request to report buckling, cracks, missing grates, request painting and other bridge issues.",
+    "Department": "Transportation",
+    "Resolution Estimate": "25 Business Days"
+  },
+  {
+    "Request": "Building Inspections",
+    "Category": "Housing, Buildings & Structures",
+    "Description": "Use this service request to report building construction inspection issues.",
+    "Department": "Housing",
+    "Resolution Estimate": "15 Calendar Days"
+  },
+  {
+    "Request": "Citizen Complaint or Concern",
+    "Category": "Other",
+    "Description": "Use this service request to document a citizen complaint or concern about a City employee, vehicle or agency.",
+    "Department": "Various",
+    "Resolution Estimate": "15 Calendar Days"
+  },
+  {
+    "Request": "Citizen Compliment or Praise",
+    "Category": "Other",
+    "Description": "Use this service request to document citizen praise or a compliment of a City employee or agency.",
+    "Department": "Various",
+    "Resolution Estimate": "15 Calendar Days"
+  },
+  {
+    "Request": "City Street Tree Down",
+    "Category": "Animals, Parks & Trees",
+    "Description": "Use this service request to report a city street tree that has fallen. Do not use this to report trees fallen on private property.",
+    "Department": "Forestry",
+    "Resolution Estimate": "1 Business Day"
+  },
+  {
+    "Request": "City Street Tree Fallen Limb",
+    "Category": "Animals, Parks & Trees",
+    "Description": "Use this service request to report a loose or fallen limb from a city street tree that is a hazard to transit or public safety. Do not use this to report loose or down limbs on private property.",
+    "Department": "Forestry",
+    "Resolution Estimate": "1 Business Day"
+  },
+  {
+    "Request": "City Street Tree Inspection",
+    "Category": "Animals, Parks & Trees",
+    "Description": "Use this service request to request an inspection of a City street tree that may need removal or pruning. If the tree or a large limb is hanging or fallen, please call 311 (or 443-263-2220) to report a down tree or limb.",
+    "Department": "Forestry",
+    "Resolution Estimate": "30 Business Days"
+  },
+  {
+    "Request": "City Trash Can or Recycling Cart Lost or Stolen",
+    "Category": "Other",
+    "Description": "Create this request to report a lost or stolen city issued trash can or recycling cart.",
+    "Department": "Unknown",
+    "Resolution Estimate": "30 Business Days"
+  },
+  {
+    "Request": "Construction without Building Permit",
+    "Category": "Housing, Buildings & Structures",
+    "Description": "Use this service request to request an investigation to determine if work is being done to a building in Baltimore City without a permit. If you have not already done so, check for a building permit at \"http://www.baltimorehousing.org/index/permits.asp\" before continuing with this request. If the City's investigation finds un-permitted work is underway, in most cases, the work will be stopped until a permit is approved. You may call 311 ten days after making your request to obtain the City's findings of its investigation.",
+    "Department": "Housing",
+    "Resolution Estimate": "20 Calendar Days"
+  },
+  {
+    "Request": "Crosswalks",
+    "Category": "Streets & Street Lights",
+    "Description": "Use this service request to request NEW markings at a crosswalk. The request will be investigated and the crosswalk will be marked as needed. This service request is for work job orders for new markings. For faded or missing markings use Street Markings-Faded or Missing request.",
+    "Department": "Transportation",
+    "Resolution Estimate": "40 Business Days"
+  },
+  {
+    "Request": "Curb Repair",
+    "Category": "Streets & Street Lights",
+    "Description": "Use this service request to report an existing curb that is in need of repair (e.g., cracked , missing, protruding irons, clogged weep holes, needs replacement, etc.). Report (handicap) sidewalk ramp repairs, please call 3-1-1.",
+    "Department": "Transportation",
+    "Resolution Estimate": "30 Business Days"
+  },
+  {
+    "Request": "Damaged Hydrant",
+    "Category": "Water, Sewer & Storm",
+    "Description": "Use this service request to report hydrants in need of repair, such as knocked over, tilted, rusted or needs painting.",
+    "Department": "Water/Wastewater",
+    "Resolution Estimate": "5 Calendar Days"
+  },
+  {
+    "Request": "Damaged Sign or Structure",
+    "Category": "Signs, Signals & Parking",
+    "Description": "Use this service request type to report damages to traffic and parking signs, sign structures. DoT maintenance investigates and conducts appropriate repairs based on the request.",
+    "Department": "Transportation",
+    "Resolution Estimate": "5 Calendar Days"
+  },
+  {
+    "Request": "Damaged Street Light Pole",
+    "Category": "Streets & Street Lights",
+    "Description": "Use this service request to report a damaged/knocked down/rusted street light pole. BGE (1 800 685-0123) will be notified so that any electrical hazard is made safe. Transportation Maintenance will repair or remove the damaged pole.",
+    "Department": "Transportation",
+    "Resolution Estimate": "3 Calendar Days"
+  },
+  {
+    "Request": "Debris Hanging from Wires or Poles",
+    "Category": "Streets & Street Lights",
+    "Description": "Use this service request to have shoes and other hanging debris removed from telephone and traffic signal wires. Contact BGE at 1-800-685-0123 to report organic growth on electrical cables.",
+    "Department": "Transportation",
+    "Resolution Estimate": "3 Calendar Days"
+  },
+  {
+    "Request": "Debris in Roadway",
+    "Category": "Streets & Street Lights",
+    "Description": "Use this service request to report hazardous and/or traffic-impeding debris on major roadways.",
+    "Department": "Transportation",
+    "Resolution Estimate": "1 Business Day"
+  },
+  {
+    "Request": "Delivery Fees Overcharge",
+    "Category": "Other",
+    "Description": "Use this service request to report complaints by Baltimore City restaurants of a delivery service fees overcharge",
+    "Department": "Unknown",
+    "Resolution Estimate": "30 Business Days"
+  },
+  {
+    "Request": "Deployment Test",
+    "Category": "Other",
+    "Description": "This is a test service request type used by the Salesforce administrative team for testing pre- and post-deployment. Please do not use or edit this service type.!~@#$%^&*)(_+|}:\">?<<:\"';\\][-=09876$%#@!24590-[\\]';l,mhiuhUJGHJFUky. Test Message from alert Validation Click Here!",
+    "Department": "Unknown",
+    "Resolution Estimate": "20 Business Days"
+  },
+  {
+    "Request": "Dirty Alley Cleaning",
+    "Category": "Trash & Unsightliness",
+    "Description": "Use this service request to request that a dirty street be cleaned of trash and/or bulk items. Upon assessment of the complaint, the City will clean the street. Do not use this service request type to request a mechanical sweeping.",
+    "Department": "Solid Waste",
+    "Resolution Estimate": "7 Business Days"
+  },
+  {
+    "Request": "Driveway Signage Request",
+    "Category": "Other",
+    "Description": "Use this Service Request type for no stopping signage in front of a curb cut.",
+    "Department": "Parking Authority",
+    "Resolution Estimate": "30 Business Days"
+  },
+  {
+    "Request": "EV Charging Station Request",
+    "Category": "Other",
+    "Description": "Use this Service Request type to request a new public EV charging station, request a change to a public EV charger station sign or report an issue with a public electric vehicle charging station.",
+    "Department": "Parking Authority",
+    "Resolution Estimate": "30 Business Days"
+  },
+  {
+    "Request": "Fence Repair on City Property",
+    "Category": "Streets & Street Lights",
+    "Description": "Use this service request to report concerns about fences on City property or right of way only. Please do not report fence issues on Baltimore City Public Schools System property, even if adjoined to City property.",
+    "Department": "Transportation",
+    "Resolution Estimate": "30 Business Days"
+  },
+  {
+    "Request": "Flooded Street",
+    "Category": "Water, Sewer & Storm",
+    "Description": "Use this service request to report a storm flooded street.",
+    "Department": "Water/Wastewater",
+    "Resolution Estimate": "3 Calendar Days"
+  },
+  {
+    "Request": "Food Facility Complaint",
+    "Category": "Other",
+    "Description": "Use this service request to report a complaint regarding a restaurant, grocery store, cart, or other food service facility. A Health Department sanitarian will be assigned to investigate the complaint. The sanitarian performs an inspection of the facility before determining the final disposition. In some cases the facility operator may be given a citation and/or the facility may be shut down.",
+    "Department": "Health",
+    "Resolution Estimate": "7 Business Days"
+  },
+  {
+    "Request": "Footway/Sidewalk Repair",
+    "Category": "Streets & Street Lights",
+    "Description": "Use this service request to request a repair to a footway/sidewalk on a city street, where the footway is broken, cracked, or chipped. After assessing the problem, the City will perform necessary repairs to make it safe. A violation notice may be issued if property is privately owned; in this case, the resident or business owner would either repair footway/sidewalk or compensate the City to perform the repair.",
+    "Department": "Transportation",
+    "Resolution Estimate": "3 Business Days"
+  },
+  {
+    "Request": "Graffiti Complaint",
+    "Category": "Other",
+    "Description": "Use to report graffiti on buildings and structures throughout the city. If on city property graffiti will be removed. Graffiti on other locations will be referred responsible agency or cited. Graffiti on Baltimore City schools must be report to BCPSS @ 443-984-2000",
+    "Department": "Unknown",
+    "Resolution Estimate": "3 Business Days"
+  },
+  {
+    "Request": "Grass Mowing on Public Property",
+    "Category": "Trash & Unsightliness",
+    "Description": "Use this service request to have overgrown (> 6 inches) grass inspected. High grass on City owned property will be cut by one of three agencies depending on the location. Medians and grass alleys will be mowed by the Department of Transportation. High grass and shrubs in parks and at recreation centers will be cut by the Department of Recreation and Parks. Other City properties are cut on a 21 day cycle. Call 311 or use CityView (http://cityview.baltimorecity.gov/CityView/) to determine the next mowing date. Privately own occupied and unoccupied will be inspected and cited. Chronic unoccupied properties will be mowed by City crews with, potentially, a lien placed on the property.",
+    "Department": "Various",
+    "Resolution Estimate": "Not Specified"
+  },
+  {
+    "Request": "Housing Inspection - Vacant Residential Property",
+    "Category": "Housing, Buildings & Structures",
+    "Description": "Use this service request to report a residential property which has become open to casual entry by the public and represents a hazard to the community. Upon investigation, the City may request the owner to board the property within a designated period of time. If the owner does not comply, the City may pursue further action against the property owner.",
+    "Department": "Housing",
+    "Resolution Estimate": "15 Calendar Days"
+  },
+  {
+    "Request": "Housing Inspection - Animal",
+    "Category": "Housing, Buildings & Structures",
+    "Description": "Use this service request to report residential animal problems such as animal feces, too many animals and/or exotic animals on occupied private property. A Housing Code Enforcement Official will be assigned to investigate the condition. A citation or violation notice may be issued. Extreme unsanitary conditions may be reported via Animal - Unsanitary Conditions. Use the service request Housing Inspection - Rodents for rodent issues located indoors or on unoccupied properties; use the service request Rat Rubout for exterior rat issues.",
+    "Department": "Housing",
+    "Resolution Estimate": "15 Calendar Days"
+  },
+  {
+    "Request": "Housing Inspection - Fire Protection",
+    "Category": "Housing, Buildings & Structures",
+    "Description": "Use this service request to report damaged or lack of proper fire protection equipment (e.g., fire extinguisher, fire escape, smoke alarms) in residential rental property. A Department of Housing Inspector will be assigned to investigate the problem. A fine or violation notice could be issued.",
+    "Department": "Housing",
+    "Resolution Estimate": "15 Calendar Days"
+  },
+  {
+    "Request": "Housing Inspection - Insects",
+    "Category": "Housing, Buildings & Structures",
+    "Description": "Use this service request to report damaged or lack of proper fire protection equipment (e.g., fire extinguisher, fire escape, smoke alarms) in residential rental property. A Department of Housing Inspector will be assigned to investigate the problem. A fine or violation notice could be issued.",
+    "Department": "Housing",
+    "Resolution Estimate": "15 Calendar Days"
+  },
+  {
+    "Request": "Housing Inspection - Overcrowding",
+    "Category": "Housing, Buildings & Structures",
+    "Description": "Use this service request to report too many people living at a residence with possible unsanitary conditions. A Department of Housing Inspector will be assigned to investigate the problem. A fine or violation notice could be issued.",
+    "Department": "Housing",
+    "Resolution Estimate": "15 Calendar Days"
+  },
+  {
+    "Request": "Housing Inspection - Rodents",
+    "Category": "Housing, Buildings & Structures",
+    "Description": "Use this service request to report landlords not handling rodent issues for their tenants, active rat burrows on unoccupied properties and neighboring properties with rodent issues. Use the Rat Rubout for active rat burrows outside on occupant's property.",
+    "Department": "Housing",
+    "Resolution Estimate": "15 Calendar Days"
+  },
+  {
+    "Request": "Housing Inspection - Structural Deficiencies",
+    "Category": "Housing, Buildings & Structures",
+    "Description": "Use this service request to report exterior or interior structural deficiencies associated with a private residence (e.g., roof, stairs, cornice, walls, ceiling, floors, porch, railings, etc.). Upon investigation, a violation notice and/or fine may be issued to the property owner. It is not the responsibility of the City to maintain private property.",
+    "Department": "Housing",
+    "Resolution Estimate": "15 Calendar Days"
+  },
+  {
+    "Request": "Housing Inspection - Trash and/or Weeds",
+    "Category": "Housing, Buildings & Structures",
+    "Description": "Use this service request to report the following sanitation related issues on private property such as trash and debris, improper use/lack of use receptacles and receptacles lids, high grass and weeds, etc. A Department of Housing Inspector will be assigned to investigate the problem. A fine or violation notice could be issued.",
+    "Department": "Housing",
+    "Resolution Estimate": "10 Calendar Days"
+  },
+  {
+    "Request": "Housing Inspection - Trees and Shrubs",
+    "Category": "Housing, Buildings & Structures",
+    "Description": "Use this service request to report residential overgrown trees or shrubs that block sidewalk traffic or do damage to an adjacent property (encroachment). A Department of Housing Inspector will be assigned to investigate the problem. A fine or violation notice could be issued.",
+    "Department": "Housing",
+    "Resolution Estimate": "15 Calendar Days"
+  },
+  {
+    "Request": "Housing Inspection - Utility System",
+    "Category": "Housing, Buildings & Structures",
+    "Description": "Use this service request to report residential property issues that concern plumbing, electrical, and mechanical problems - no heat, water or electric (required utilities). A Department of Housing Inspector will investigate the problem. After assessing the situation, a determination is made whether a fine should be issued. A \"Notice to Vacate\" letter may be served and filed with the court through the City of Baltimore Legal Department and the Sheriff's Office.",
+    "Department": "Housing",
+    "Resolution Estimate": "15 Calendar Days"
+  },
+  {
+    "Request": "Illegal Dumping",
+    "Category": "Housing, Buildings & Structures",
+    "Description": "Use this service request to report large amounts of trash (5) bags or more, bulk items, or building materials that appeared overnight or a witnessed act of dumping from a vehicle. If the dumping is in progress, call 911. For neighborhood trash concerns, use Housing Inspection - Sanitation Property.",
+    "Department": "Housing",
+    "Resolution Estimate": "5 Calendar Days"
+  },
+  {
+    "Request": "Illegal Flyers",
+    "Category": "Housing, Buildings & Structures",
+    "Description": "Use this service request to report illegal flyers posted on private property. The City will investigate and issue a citation to the responsible party if appropriate. Only the property owner or resident can request an illegal flyer investigation on private property. Newspapers, newsletters and political flyers are not considered illegal and will not be investigated or cited.",
+    "Department": "Housing",
+    "Resolution Estimate": "15 Calendar Days"
+  },
+  {
+    "Request": "Illegal Signs on Public Property",
+    "Category": "Signs, Signals & Parking",
+    "Description": "Use this service request to report the placement of illegal signs on public property or public right-of-way. The City will investigate and issue a citation to the responsible party if appropriate. The City cannot remove signs from private property.",
+    "Department": "Housing",
+    "Resolution Estimate": "15 Business Days"
+  },
+  {
+    "Request": "Leaking Hydrant",
+    "Category": "Water, Sewer & Storm",
+    "Description": "Use this service request to report hydrants leaking from the top or side bolts. Use the Open Hydrant service request if water is flowing from hydrant via an open cap.",
+    "Department": "Water/Wastewater",
+    "Resolution Estimate": "5 Calendar Days"
+  },
+  {
+    "Request": "Liquor License/Adult Entertainment Complaint",
+    "Category": "Other",
+    "Description": "Use this service request to report a liquor license violation or adult entertainment concern to the Liquor Board. Issues may include: trash, loud music, operating without license, smoking inside, operating after hours, sales/admittance to minors, noise, front door open, etc. The Liquor Board will investigate and take action as deemed necessary.",
+    "Department": "Liquor Board",
+    "Resolution Estimate": "2 Calendar Days"
+  },
+  {
+    "Request": "Miscellaneous Request",
+    "Category": "Other",
+    "Description": "Use this service request to capture a general constituent request not otherwise listed on the mobile app or, possibly, other platforms.",
+    "Department": "Various",
+    "Resolution Estimate": "Not Specified"
+  },
+  {
+    "Request": "Missed Mixed Refuse Pickup",
+    "Category": "Trash & Unsightliness",
+    "Description": "This request is used to report a missed collection of regular household trash not more than two business days after collection is missed.",
+    "Department": "Solid Waste",
+    "Resolution Estimate": "1 Business Day"
+  },
+  {
+    "Request": "Missed Recycling Pickup",
+    "Category": "Trash & Unsightliness",
+    "Description": "Use this service request to report a missed routine recycling pickup with in 24 hours of missed collection. In most cases, the recycled items are picked up the next business day.",
+    "Department": "Solid Waste",
+    "Resolution Estimate": "1 Business Day"
+  },
+  {
+    "Request": "New Stop Sign",
+    "Category": "Other",
+    "Description": "Use this SR to request stop signs on all legs of an intersection. In addition to field observation, new Stop sign Request requires accident/traffic data before installation.",
+    "Department": "Transportation",
+    "Resolution Estimate": "60 Business Days"
+  },
+  {
+    "Request": "New Traffic Sign",
+    "Category": "Other",
+    "Description": "This request type is created so a traffic sign (other than a STOP sign) may be installed at a location where no previous sign existed. An Investigator will be assigned to assess the request. If the Investigator determines that a new sign is needed, a new sign will be installed.",
+    "Department": "Transportation",
+    "Resolution Estimate": "60 Business Days"
+  },
+  {
+    "Request": "No Water",
+    "Category": "Water, Sewer & Storm",
+    "Description": "Use this service request to report a lack of water to a home or business that is not due to a billing issue or a known shut off in area. The City will investigate and make the required repairs. Before creating this service request, please check to see if any faucets in your dwelling or building have water, if neighbors have water, or if there is a work crew in the area that may have shut the water off to make repairs.",
+    "Department": "Water/Wastewater",
+    "Resolution Estimate": "1 Business Day"
+  },
+  {
+    "Request": "Noise",
+    "Category": "Other",
+    "Description": "Use this service request to report loud mechanical or construction noise between 10:00 PM and 7:00 AM, loud picketers, or amplified music from a nearby school or church.",
+    "Department": "Health",
+    "Resolution Estimate": "20 Business Days"
+  },
+  {
+    "Request": "Open Hydrant",
+    "Category": "Water, Sewer & Storm",
+    "Description": "Use this service request to alert the City that water is flowing from a hydrant nozzle (usually opened by unauthorized residents during summer months). At times, the City may open hydrants to flush water after repairs.",
+    "Department": "Water/Wastewater",
+    "Resolution Estimate": "1 Calendar Day"
+  },
+  {
+    "Request": "Park Cans",
+    "Category": "Animals, Parks & Trees",
+    "Description": "Use this service request to have overflowing trash cans and trash around cans removed from Rec & Parks properties. Trash on park grounds and requests for new trash cans are created under Park Maintenance.",
+    "Department": "Solid Waste",
+    "Resolution Estimate": "3 Business Days"
+  },
+  {
+    "Request": "Park Maintenance",
+    "Category": "Animals, Parks & Trees",
+    "Description": "Use this service request to request maintenance at within public park or at a park structure (e.g., pavilion or gazebo). Typical park maintenance requests include trash on grounds, basketball replacement, tennis/basketball court repairs, fences repairs, bench repairs, masonry work, water fountain repairs and other outside water leaks.",
+    "Department": "Recreation & Parks",
+    "Resolution Estimate": "17 Calendar Days"
+  },
+  {
+    "Request": "Parking Complaint",
+    "Category": "Signs, Signals & Parking",
+    "Description": "Use this service request to report suspected illegal parking. An inspector will investigate and possible outcomes may include ticketing, towing and impediment, referral to the Police, etc.",
+    "Department": "Transportation",
+    "Resolution Estimate": "1 Calendar Day"
+  },
+  {
+    "Request": "Parking Regulation Review",
+    "Category": "Other",
+    "Description": "Use this Service Request to review parking regulations on a block.",
+    "Department": "Parking Authority",
+    "Resolution Estimate": "30 Business Days"
+  },
+  {
+    "Request": "Passenger Loading Zone",
+    "Category": "Other",
+    "Description": "Use this Service Request type for picking up and dropping off people from City right-of-way.",
+    "Department": "Parking Authority",
+    "Resolution Estimate": "30 Business Days"
+  },
+  {
+    "Request": "Pay by License Plate Meter Complaint",
+    "Category": "Other",
+    "Description": "Use this Service Request type for all Pay by License Plate Meter issues. These issues include entering a license plate into a meter where a displayed receipt is not required to park. These meters govern multiple parking spaces.",
+    "Department": "Parking Authority",
+    "Resolution Estimate": "5 Business Days"
+  },
+  {
+    "Request": "Playgrounds",
+    "Category": "Animals, Parks & Trees",
+    "Description": "Use this service request to address all playground issues (e.g., repairs of swings, playground equipment, fencing, painting of equipment, and adding mulch or wood carpet to playground surface). Any issue that is of a safety concern, broken equipment, or protruding pieces that could cause injury should be called in directly to 3-1-1.",
+    "Department": "Recreation & Parks",
+    "Resolution Estimate": "29 Calendar Days"
+  },
+  {
+    "Request": "Potholes",
+    "Category": "Streets & Street Lights",
+    "Description": "Use this service request to report a pothole(s) on a public street or alley. Winter pothole repairs are typically temporary; permanent repairs commence in the spring season.",
+    "Department": "Transportation",
+    "Resolution Estimate": "2 Business Days"
+  },
+  {
+    "Request": "Public (Corner) Trash Can Issue",
+    "Category": "Trash & Unsightliness",
+    "Description": "Use this service request to report overflowing public trash cans to be emptied. You may also report trash can abuse (dumping of household trash or bulk items at a public trash can).",
+    "Department": "Solid Waste",
+    "Resolution Estimate": "1 Business Day"
+  },
+  {
+    "Request": "Rat Rubout (occupied single family residence)",
+    "Category": "Trash & Unsightliness",
+    "Description": "Use this service request to report rat infestation on a property's exterior. The City will use pesticides to treat the burrows. The property owner or resident may be required to permit access to the property for purposes of investigation and treatment. Report infestation at a business or multi-family or unoccupied dwelling as Housing Inspection-Rodents or Food Facility Complaint service type.",
+    "Department": "Solid Waste",
+    "Resolution Estimate": "14 Business Days"
+  },
+  {
+    "Request": "Residential Parking Permit Inquiries",
+    "Category": "Other",
+    "Description": "Use this Service Request type for all Residential Parking visitor pass violations and RPP area requests.",
+    "Department": "Parking Authority",
+    "Resolution Estimate": "5 Business Days"
+  },
+  {
+    "Request": "Residential Recycling Carts",
+    "Category": "Other",
+    "Description": "This service request is created for residents to opt out of receiving a recycling cart or request a 35gallon cart rather than the 65gallon bin during the City/DPW’s distribution in the Fall of 2021 and Winter of 2022.",
+    "Department": "Solid Waste",
+    "Resolution Estimate": "Not Specified"
+  },
+  {
+    "Request": "Residential Reserved Disabled Parking Request",
+    "Category": "Other",
+    "Description": "Use this Service Request type to request a new disabled parking permit or to request a change with reserved disabled parking signs outside of a residence in Baltimore City.",
+    "Department": "Parking Authority",
+    "Resolution Estimate": "30 Business Days"
+  },
+  {
+    "Request": "Right-of-Way Permit Investigation",
+    "Category": "Housing, Buildings & Structures",
+    "Description": "Use this service request to verify valid permits for dumpsters, scaffolds, newspaper boxes or other STATIONARY OBJECTS located on a public sidewalk, alley or street. If a valid permit is displayed on the object, please do not create this service request.",
+    "Department": "Transportation",
+    "Resolution Estimate": "15 Business Days"
+  },
+  {
+    "Request": "Saltbox Concern",
+    "Category": "Streets & Street Lights",
+    "Description": "Use this service request to have a salt box installed, repaired, moved or removed. For saltbox refills, use the Saltbox Refill service request.",
+    "Department": "Transportation",
+    "Resolution Estimate": "15 Business Days"
+  },
+  {
+    "Request": "Saltbox Refill",
+    "Category": "Streets & Street Lights",
+    "Description": "Use this service request to have an existing saltbox refilled with salt. Use the Salt Box Concern service request to have a salt box installed, repaired, moved or removed.",
+    "Department": "Transportation",
+    "Resolution Estimate": "7 Business Days"
+  },
+  {
+    "Request": "Sediment or Erosion Problem",
+    "Category": "Water, Sewer & Storm",
+    "Description": "Use this service request to report concerns about construction-related erosion and sediment control issues.",
+    "Department": "Water/Wastewater",
+    "Resolution Estimate": "3 Business Days"
+  },
+  {
+    "Request": "Sewer Investigation",
+    "Category": "Water, Sewer & Storm",
+    "Description": "Use this service request to report any sewer related issues such as sewer/sanitary manhole cover damage/missing , an odor of sewage with no visual evidence, or maintenance of tree roots in a sewer drain which could cause a backup. Report actual backups as a Sewer Water in Basement or as a Sewer Overflow depending on location of the leaking sewage. The City will investigate and determine how the problem can best be corrected.",
+    "Department": "Water/Wastewater",
+    "Resolution Estimate": "4 Calendar Days"
+  },
+  {
+    "Request": "Sewer Overflow",
+    "Category": "Water, Sewer & Storm",
+    "Description": "Use this service request to report sewer water leaking or overflowing from outside pipes.",
+    "Department": "Water/Wastewater",
+    "Resolution Estimate": "8 Calendar Days"
+  },
+  {
+    "Request": "Sewer Water in Basement",
+    "Category": "Water, Sewer & Storm",
+    "Description": "Use this service request to report a sewer water backup indoors (backing up in the drains of the tub, toilet, sanitary tub, or sink). Upon investigation and determination that the water backup is the City's responsibility, a maintenance repair crew will correct the condition. In some cases, water backups are the responsibility of the property owner.",
+    "Department": "Water/Wastewater",
+    "Resolution Estimate": "4 Calendar Days"
+  },
+  {
+    "Request": "Single Space Meter Complaits",
+    "Category": "Other",
+    "Description": "Use this service request type for all single space meter issues.",
+    "Department": "Parking Authority",
+    "Resolution Estimate": "5 Business Days"
+  },
+  {
+    "Request": "Slow Street",
+    "Category": "Signs, Signals & Parking",
+    "Description": "This SR is used to report issues with the slow street program i.e. barricade damage/missing, signs damage/missing etc.",
+    "Department": "Unknown",
+    "Resolution Estimate": "3 Business Days"
+  },
+  {
+    "Request": "Snow and Ice on Sidewalks",
+    "Category": "Housing, Buildings & Structures",
+    "Description": "Use this service request to report snow or ice on a sidewalk 3 hours after of the end of snowfall, or if snowfall ends later than 3:00 PM, after 11:00 AM the following day. The complaint will be investigated and a citation may be issued to the property owner.",
+    "Department": "Housing",
+    "Resolution Estimate": "5 Business Days"
+  },
+  {
+    "Request": "Snow or Icy Conditions on City Streets",
+    "Category": "Streets & Street Lights",
+    "Description": "Use this service request to report a snow/icy condition which could cause injury or inhibit the movement of traffic . Baltimore City does not plow or treat alleys. During a snow event, primary and emergency routes will be attended to before secondary roads.",
+    "Department": "Transportation",
+    "Resolution Estimate": "1 Business Day"
+  },
+  {
+    "Request": "Steel Plate Complaint",
+    "Category": "Streets & Street Lights",
+    "Description": "Use this service request to report a problem with a steel plate installed in the street (e.g., loose, not pinned, noisy, etc.). Call 3-1-1 (443-263-2220) directly if the plate has shifted leaving a hazardous hole exposed.",
+    "Department": "Transportation",
+    "Resolution Estimate": "15 Business Days"
+  },
+  {
+    "Request": "Storm Inlet Choke",
+    "Category": "Water, Sewer & Storm",
+    "Description": "Use this service request to report a storm inlet which is blocked, filled with debris or not draining properly. Upon inspection, the City will clear the blockage and repair any damage to the inlet.",
+    "Department": "Water/Wastewater",
+    "Resolution Estimate": "7 Calendar Days"
+  },
+  {
+    "Request": "Storm Inlet Damaged",
+    "Category": "Water, Sewer & Storm",
+    "Description": "Use this service request to report a broken or missing inlet grate or damaged inlet opening.",
+    "Department": "Water/Wastewater",
+    "Resolution Estimate": "30 Calendar Days"
+  },
+  {
+    "Request": "Street Light Issue",
+    "Category": "Streets & Street Lights",
+    "Description": "Use this service request to report a street light issue (e.g., outage, too bright, inadequate). Street lights are maintained by either the City or BGE. The City will repair or coordinate the repair of all public street lights.",
+    "Department": "Transportation",
+    "Resolution Estimate": "4 Business Days"
+  },
+  {
+    "Request": "Street Markings - Faded or Missing",
+    "Category": "Streets & Street Lights",
+    "Description": "Use this service request to report existing street lines and crosswalk markings that are missing or faded.",
+    "Department": "Transportation",
+    "Resolution Estimate": "180 Business Days"
+  },
+  {
+    "Request": "Street Repairs",
+    "Category": "Streets & Street Lights",
+    "Description": "Use this service request for issues regarding the material condition of a street such as cracking, sunken, raised, or sinkhole etc., exclusive of potholes.",
+    "Department": "Transportation",
+    "Resolution Estimate": "40 Business Days"
+  },
+  {
+    "Request": "Traffic Calming",
+    "Category": "Other",
+    "Description": "Create to request is created when request comes for speed bumps, bollards and other methods to slow traffic flow.",
+    "Department": "Transportation",
+    "Resolution Estimate": "90 Business Days"
+  },
+  {
+    "Request": "Traffic Sign Request",
+    "Category": "Signs, Signals & Parking",
+    "Description": "Use this request type to suggest a sign type change or to remove an existing sign. This request also should be used to report faded signs.",
+    "Department": "Transportation",
+    "Resolution Estimate": "60 Business Days"
+  },
+  {
+    "Request": "Traffic Sign Repairs",
+    "Category": "Signs, Signals & Parking",
+    "Description": "Use this request type to suggest a sign type change or to remove an existing sign. This request also should be used to report faded signs.",
+    "Department": "Transportation",
+    "Resolution Estimate": "60 Business Days"
+  },
+  {
+    "Request": "Traffic Signal Repairs",
+    "Category": "Signs, Signals & Parking",
+    "Description": "Use this service request to report non-functioning or improperly functioning traffic or pedestrian signal at a signalized intersection. A technician will be dispatched to investigate and repair the signal problem. If possible, please enter location using the street names of the intersection (e.g., E Pratt St and Light St, N Gay St and E Fayette St, etc.). IF THE SIGNAL IS FLASHING OR NOT FUNCTIONING AT ALL, CALL 311 TO REPORT AN EMERGENCY SITUATION!",
+    "Department": "Transportation",
+    "Resolution Estimate": "12 Hours"
+  },
+  {
+    "Request": "Trash Can/Recycling Container Complaint",
+    "Category": "Other",
+    "Description": "Create this request to document complaints about SW collection crews abusing trash cans or recycling containers. i.e. not returned to correct location, mishandling container, losing lid to container, damaging container, etc.",
+    "Department": "Solid Waste",
+    "Resolution Estimate": "1 Business Day"
+  },
+  {
+    "Request": "Truck Loading Zone",
+    "Category": "Other",
+    "Description": "Use this Service Request type for picking up and dropping off inventory from City right-of-way.",
+    "Department": "Parking Authority",
+    "Resolution Estimate": "30 Business Days"
+  },
+  {
+    "Request": "Valet Regulations Inquiries",
+    "Category": "Other",
+    "Description": "Use this Service Request type for valet permit or license or requests, valet loading zone requests, and valet operation complaints.",
+    "Department": "Parking Authority",
+    "Resolution Estimate": "10 Business Days"
+  },
+  {
+    "Request": "Water Discolored at Faucet",
+    "Category": "Water, Sewer & Storm",
+    "Description": "Use this service request to report discolored water coming from a tap or faucet. The City will investigate and make the required repairs. Please note that temporary water discoloration may result from nearby street or water main repair, hydrant flushing, etc.",
+    "Department": "Water/Wastewater",
+    "Resolution Estimate": "2 Calendar Days"
+  },
+  {
+    "Request": "Water Leak (Exterior)",
+    "Category": "Water, Sewer & Storm",
+    "Description": "Use this service request to report water leaking in the street, alley, sidewalk or lawn which is NOT related to rain or sewage. The City will investigate and make the required repairs.",
+    "Department": "Water/Wastewater",
+    "Resolution Estimate": "2 Business Days"
+  },
+  {
+    "Request": "Water Low Pressure",
+    "Category": "Water, Sewer & Storm",
+    "Description": "Use this service request to report low water pressure when at all faucets in your home or business. If the problem is not at all faucets, the issue is not caused by the City water supply but is rather the property owner's inside concern. Low pressure is normally caused by a water main break, contractors working, or an open hydrant in your area. Please enter a request if this condition has existed longer than one day.",
+    "Department": "Water/Wastewater",
+    "Resolution Estimate": "2 Calendar Days"
+  },
+  {
+    "Request": "Water Meter Cover Missing or Damaged",
+    "Category": "Water, Sewer & Storm",
+    "Description": "Use this service request to report a missing or damaged water meter cover. The City will investigate and make the required repairs.",
+    "Department": "Water/Wastewater",
+    "Resolution Estimate": "7 Calendar"
+  },
+  {
+    "Request": "Water Odor or Bad Taste",
+    "Category": "Water, Sewer & Storm",
+    "Description": "Use this service request to report any unusual smell or taste associated with a dwelling's tap water. The City will investigate and address the concern.",
+    "Department": "Water/Wastewater",
+    "Resolution Estimate": "5 Calendar Days"
+  },
+  {
+    "Request": "Water Surface Repair",
+    "Category": "Water, Sewer & Storm",
+    "Description": "Use this service request to report an opening in a street or sidewalk left by a water repair crew. The City or its contractors will assess the condition and make necessary repairs.",
+    "Department": "Water/Wastewater",
+    "Resolution Estimate": "30 Business Days"
+  },
+  {
+    "Request": "Water in Basement",
+    "Category": "Water, Sewer & Storm",
+    "Description": "Use this service request to report water leaking into a cellar or basement. Upon investigation and determination that the water leak is the City's responsibility, a maintenance repair crew will correct the condition. In many cases, interior water leaks are the responsibility of the property owner.",
+    "Department": "Water/Wastewater",
+    "Resolution Estimate": "2 Business Days"
+  },
+  {
+    "Request": "Water Pollution Investigation",
+    "Category": "Water, Sewer & Storm",
+    "Description": "Use this service request to report on, or request an investigation of, a foreign substance infiltrating a body of water such as a stream, river, harbor, tributary or creek.",
+    "Department": "Water/Wastewater",
+    "Resolution Estimate": "5 Business Days"
+  },
+  {
+    "Request": "Zoning Violation Investigation",
+    "Category": "Housing, Buildings & Structures",
+    "Description": "Use this service request to report concerns related to the illegal use of properties in Baltimore City. These concerns specifically involve changes to a use of a building or land in the city without proper permit or zoning authorization. These changes could involve conditional uses approved by the Zoning Board or the Mayor and City Council. These concerns do not include activities occurring in the street, alley or other right-of-ways.",
+    "Department": "Housing",
+    "Resolution Estimate": "15 Calendar Days"
+  }
+]
